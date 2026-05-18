@@ -24,7 +24,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         title: "Hanalei Fill",
-        header: "Hanalei Fill",
+        header: "Roboto",
         body: "Source Sans Pro",
         code: "IBM Plex Mono",
       },
