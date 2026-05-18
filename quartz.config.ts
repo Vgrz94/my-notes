@@ -89,9 +89,6 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      Plugin.Mindmap({
-        markdownLinkResolution: "relative", // Must match CrawlLinks option
-      }),
       // Comment out CustomOgImages to speed up build time
       Plugin.CustomOgImages(),
     ],
