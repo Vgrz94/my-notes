@@ -1,1 +1,1 @@
-![[IMG_0001 (2)_risultato.jpg]]
+![](IMG_0001%20(4)_risultato.jpg)
