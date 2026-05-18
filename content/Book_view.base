@@ -1,0 +1,13 @@
+views:
+  - type: cards
+    name: Tabella
+    filters:
+      and:
+        - file.folder == "content/Books"
+    cardSize: 200
+    imageAspectRatio: 1
+    image: note.coverImage
+    imageFit: contain
+  - type: cards
+    name: Vista
+    image: file.file
