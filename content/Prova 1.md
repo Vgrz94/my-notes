@@ -1,0 +1,1 @@
+![[IMG_0001 (2)_risultato 1.jpg]]
