@@ -91,7 +91,7 @@ const config: QuartzConfig = {
       Plugin.NotFoundPage(),
       Plugin.Mindmap({
         markdownLinkResolution: "relative", // Must match CrawlLinks option
-      })
+      }),
       // Comment out CustomOgImages to speed up build time
       Plugin.CustomOgImages(),
     ],
